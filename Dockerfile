@@ -1,4 +1,4 @@
-FROM fedora:27
+FROM fedora:28
 MAINTAINER Alexis Jeandet "alexis.jeandet@member.fsf.org"
 
 # Install.
